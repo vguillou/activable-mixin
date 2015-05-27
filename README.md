@@ -78,7 +78,7 @@ Then use your element as a direct child of `core-selector` implementation, such 
 
 ## Demo
 
-[Here.](http://vguillou.github.io/webcomponents/activable-mixin/demo.html)
+[Here.](https://vguillou.github.io/webcomponents/activable-mixin/demo.html)
 
 ## License
 
