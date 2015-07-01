@@ -2,6 +2,8 @@
 
 _A Polymer mixin that gives you more control over the lifecycle of the children of your `core-selector`, and `core-animated-pages` in particular._
 
+_**This Polymer mixin is compatible with Polymer 0.5.X. For Polymer 1.0.X, please take a look at [neon-page-behavior](https://github.com/vguillou/neon-page-behavior).**_
+
 ## What can you do with it ?
 
 Direct children elements of `core-selector` that require finer control over their
